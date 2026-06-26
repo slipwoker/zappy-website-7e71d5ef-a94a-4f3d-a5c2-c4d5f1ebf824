@@ -1,0 +1,108 @@
+# שופ אנד וויט — Generative Engine Optimization Map
+
+> A ready-made and designed dropshipping website focused on selling products online without holding inventory. The user is looking for a complete, polished e-commerce presence tailored to the dropshipping business model.
+
+---
+
+## Pages
+
+### בית
+https://-7e71d5ef.zappy5.app
+חנות אונליין משלוח חינם ישראל עם מוצרי דרופשיפינג איכותיים במחיר זול. אתר מעוצב ומוכן שמאפשר לכם למכור בלי מלאי. הצטרפו עוד היום והתחילו להרוויח!
+
+### תכונות
+https://-7e71d5ef.zappy5.app/features
+גלו תכונות מתקדמות לדרופשיפינג: עיצוב מושלם, חוויית קניות אונליין מוצרים ידידותיים לסביבה, ומשלוח חינם. כל מה שצריך לחנות מצליחה מחכה לכם כאן!
+
+### אודות
+https://-7e71d5ef.zappy5.app/about
+שופ אנד וויט נולדה כדי לתת לכם חנות דרופשיפינג מושלמת בלי כאבי ראש. אנו מתמחים במוצרים איכותיים במחיר זול ובניית נוכחות אונליין שמביאה תוצאות. הכירו אותנו!
+
+### שאלות נפוצות
+https://-7e71d5ef.zappy5.app/faq
+שאלות נפוצות על דרופשיפינג, משלוח חינם בישראל, וקניות אונליין מוצרים ידידותיים לסביבה. קבלו תשובות מהירות שיעזרו לכם להתחיל למכור בביטחון עוד היום!
+
+### צור קשר
+https://-7e71d5ef.zappy5.app/contact
+צרו קשר עם שופ אנד וויט והתחילו למכור דרופשיפינג מוצרים איכותיים במחיר זול עם משלוח חינם. המומחים שלנו מחכים להפוך את הרעיון שלכם לחנות אונליין מנצחת!
+
+### Products
+https://-7e71d5ef.zappy5.app/products
+המוצרים שלנו - שופ אנד וויט
+
+### Cart
+https://-7e71d5ef.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-7e71d5ef.zappy5.app/checkout
+תשלום
+
+### Login
+https://-7e71d5ef.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-7e71d5ef.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-7e71d5ef.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-7e71d5ef.zappy5.app/product/:slug
+פרטי המוצר - שופ אנד וויט
+
+### Category
+https://-7e71d5ef.zappy5.app/category/:slug
+מוצרים - שופ אנד וויט
+
+### תודה שפניתם | שופ אנד וויט
+https://-7e71d5ef.zappy5.app/thank-you
+שופ אנד וויט - תודה שפניתם | שופ אנד וויט
+
+## Legal & Policy
+
+### Privacy Policy
+https://-7e71d5ef.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-7e71d5ef.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-7e71d5ef.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About שופ אנד וויט
+A ready-made and designed dropshipping website focused on selling products online without holding inventory. The user is looking for a complete, polished e-commerce presence tailored to the dropshipping business model.
+
+## Target Audience
+- חובבי קניות אונליין
+- צעירים טכנולוגיים
+- צרכנים מודעים לסביבה
+
+## Industry
+E-commerce / Dropshipping
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-7e71d5ef.zappy5.app/sitemap.xml
+- Robots: https://-7e71d5ef.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-7e71d5ef.zappy5.app/llms-full.txt
+- Products (JSON): https://-7e71d5ef.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-7e71d5ef.zappy5.app/product-feed.xml
