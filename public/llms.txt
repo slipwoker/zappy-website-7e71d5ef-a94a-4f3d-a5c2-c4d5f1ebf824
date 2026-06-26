@@ -80,7 +80,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 1**
+
+### סקוושי דאמפלינג
+https://example.com/product/skvvshy-damplyng-fw60a5
+- Price: 35.00 ILS
+- Availability: In stock
+- Description: הכירו את הסקווישי דאמפלינג – צעצוע לחיצה רך, נעים וממכר! ✔ מרגיע לחץ וחרדה ✔ חוזר לצורה המקורית תוך שניות ✔ מושלם לשולחן עבודה / לימודים / מתנה ✔ קטן, נוח ונכנס לכל מקום אי אפשר להפסיק ללחוץ עליו 😄
+- Image: https://example.com/assets/product-1782457615907-amyv8.webp
 
 ---
 

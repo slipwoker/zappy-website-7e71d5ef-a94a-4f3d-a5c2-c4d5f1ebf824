@@ -4,6 +4,18 @@
     <title>שופ אנד וויט</title>
     <link>https://example.com</link>
     <description>Product feed for שופ אנד וויט</description>
-    <lastBuildDate>Fri, 26 Jun 2026 06:54:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 07:09:20 GMT</lastBuildDate>
+    <item>
+      <g:id>3467ef61-ed6d-4ac5-bb79-c61f6f492a43</g:id>
+      <g:title>סקוושי דאמפלינג</g:title>
+      <g:description>הכירו את הסקווישי דאמפלינג – צעצוע לחיצה רך, נעים וממכר! ✔ מרגיע לחץ וחרדה ✔ חוזר לצורה המקורית תוך שניות ✔ מושלם לשולחן עבודה / לימודים / מתנה ✔ קטן, נוח ונכנס לכל מקום אי אפשר להפסיק ללחוץ עליו 😄</g:description>
+      <g:link>https://example.com/product/skvvshy-damplyng-fw60a5</g:link>
+      <g:image_link>https://example.com/assets/product-1782457615907-amyv8.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>35.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>שופ אנד וויט</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>

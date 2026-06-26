@@ -1,8 +1,31 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-26T06:54:16.138Z",
+  "generated_at": "2026-06-26T07:09:20.540Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "3467ef61-ed6d-4ac5-bb79-c61f6f492a43",
+      "slug": "skvvshy-damplyng-fw60a5",
+      "name": "סקוושי דאמפלינג",
+      "name_translations": {},
+      "description": "",
+      "short_description": "\nהכירו את הסקווישי דאמפלינג – צעצוע לחיצה רך, נעים וממכר!\n\n✔ מרגיע לחץ וחרדה\n✔ חוזר לצורה המקורית תוך שניות\n✔ מושלם לשולחן עבודה / לימודים / מתנה\n✔ קטן, נוח ונכנס לכל מקום\n\nאי אפשר להפסיק ללחוץ עליו 😄",
+      "sku": null,
+      "brand": null,
+      "price": 35,
+      "base_price": 35,
+      "sale_price": 35,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1782457615907-amyv8.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/skvvshy-damplyng-fw60a5",
+      "categories": [],
+      "updated_at": "2026-06-26T07:07:53.123Z"
+    }
+  ]
 }

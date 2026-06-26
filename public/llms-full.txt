@@ -5957,3 +5957,12 @@ Description: שופ אנד וויט - תודה שפניתם | שופ אנד וו
 
 ---
 
+## Product Catalog
+
+### סקוושי דאמפלינג
+URL: https://example.com/product/skvvshy-damplyng-fw60a5
+Price: 35.00 ILS
+Availability: In stock
+
+---
+
