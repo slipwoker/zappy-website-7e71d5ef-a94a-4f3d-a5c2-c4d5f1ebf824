@@ -435,7 +435,7 @@ Description: חנות אונליין משלוח חינם ישראל עם מוצ�
 
 - Danielzalm5@gmail.com
 
-- [business_phone]
+- 0553054595
 
 - [business_address]
 
@@ -905,7 +905,7 @@ VS
 
 - Danielzalm5@gmail.com
 
-- [business_phone]
+- 0553054595
 
 - [business_address]
 
@@ -1347,7 +1347,7 @@ Description: שופ אנד וויט נולדה כדי לתת לכם חנות ד�
 
 - Danielzalm5@gmail.com
 
-- [business_phone]
+- 0553054595
 
 - [business_address]
 
@@ -1728,7 +1728,7 @@ Description: שאלות נפוצות על דרופשיפינג, משלוח חי�
 
 - Danielzalm5@gmail.com
 
-- [business_phone]
+- 0553054595
 
 - [business_address]
 
@@ -1979,7 +1979,7 @@ Danielzalm5@gmail.com
 
 
 
-[business_phone]
+0553054595
 
 
 
@@ -2106,7 +2106,7 @@ Danielzalm5@gmail.com
 
 - Danielzalm5@gmail.com
 
-- [business_phone]
+- 0553054595
 
 - [business_address]
 
@@ -2338,7 +2338,7 @@ Description: המוצרים שלנו - שופ אנד וויט
 
 - Danielzalm5@gmail.com
 
-- [business_phone]
+- 0553054595
 
 - [business_address]
 
@@ -2573,7 +2573,7 @@ Description: עגלת הקניות שלך
 
 - Danielzalm5@gmail.com
 
-- [business_phone]
+- 0553054595
 
 - [business_address]
 
@@ -2994,7 +2994,7 @@ Description: תשלום
 
 - Danielzalm5@gmail.com
 
-- [business_phone]
+- 0553054595
 
 - [business_address]
 
@@ -3236,7 +3236,7 @@ Description: התחברות לקוחות
 
 - Danielzalm5@gmail.com
 
-- [business_phone]
+- 0553054595
 
 - [business_address]
 
@@ -3633,7 +3633,7 @@ Description: החשבון שלי
 
 - Danielzalm5@gmail.com
 
-- [business_phone]
+- 0553054595
 
 - [business_address]
 
@@ -3892,7 +3892,7 @@ Description: תודה על ההזמנה
 
 - Danielzalm5@gmail.com
 
-- [business_phone]
+- 0553054595
 
 - [business_address]
 
@@ -4132,7 +4132,7 @@ Description: מדיניות החזרת מוצרים - זכויותיכם להח�
 אימייל: Danielzalm5@gmail.com
 
 
-טלפון: [business_phone]
+טלפון: 0553054595
 
 
 כתובת: [business_address]
@@ -4180,7 +4180,7 @@ Description: מדיניות החזרת מוצרים - זכויותיכם להח�
 
 - Danielzalm5@gmail.com
 
-- [business_phone]
+- 0553054595
 
 - [business_address]
 
@@ -4417,7 +4417,7 @@ Description: פרטי המוצר - שופ אנד וויט
 
 - Danielzalm5@gmail.com
 
-- [business_phone]
+- 0553054595
 
 - [business_address]
 
@@ -4678,7 +4678,7 @@ Description: מוצרים - שופ אנד וויט
 
 - Danielzalm5@gmail.com
 
-- [business_phone]
+- 0553054595
 
 - [business_address]
 
@@ -4927,7 +4927,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 - אימייל: Danielzalm5@gmail.com
 
-- טלפון: [business_phone]
+- טלפון: 0553054595
 
 - כתובת: [business_address]
 
@@ -4981,7 +4981,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 - Danielzalm5@gmail.com
 
-- [business_phone]
+- 0553054595
 
 - [business_address]
 
@@ -5214,7 +5214,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 - אימייל: Danielzalm5@gmail.com
 
-- טלפון: [business_phone]
+- טלפון: 0553054595
 
 
 
@@ -5269,7 +5269,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 - Danielzalm5@gmail.com
 
-- [business_phone]
+- 0553054595
 
 - [business_address]
 
@@ -5525,7 +5525,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 - אימייל: Danielzalm5@gmail.com
 
-- טלפון: [business_phone]
+- טלפון: 0553054595
 
 - כתובת: [business_address]
 
@@ -5576,7 +5576,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 - Danielzalm5@gmail.com
 
-- [business_phone]
+- 0553054595
 
 - [business_address]
 
@@ -5833,7 +5833,7 @@ Description: שופ אנד וויט - תודה שפניתם | שופ אנד וו
 
 - Danielzalm5@gmail.com
 
-- [business_phone]
+- 0553054595
 
 - [business_address]
 
