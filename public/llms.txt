@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://-7e71d5ef.zappy5.app
+https://example.com
 חנות אונליין משלוח חינם ישראל עם מוצרי דרופשיפינג איכותיים במחיר זול. אתר מעוצב ומוכן שמאפשר לכם למכור בלי מלאי. הצטרפו עוד היום והתחילו להרוויח!
 
 ### תכונות
-https://-7e71d5ef.zappy5.app/features
+https://example.com/features
 גלו תכונות מתקדמות לדרופשיפינג: עיצוב מושלם, חוויית קניות אונליין מוצרים ידידותיים לסביבה, ומשלוח חינם. כל מה שצריך לחנות מצליחה מחכה לכם כאן!
 
 ### אודות
-https://-7e71d5ef.zappy5.app/about
+https://example.com/about
 שופ אנד וויט נולדה כדי לתת לכם חנות דרופשיפינג מושלמת בלי כאבי ראש. אנו מתמחים במוצרים איכותיים במחיר זול ובניית נוכחות אונליין שמביאה תוצאות. הכירו אותנו!
 
 ### שאלות נפוצות
-https://-7e71d5ef.zappy5.app/faq
+https://example.com/faq
 שאלות נפוצות על דרופשיפינג, משלוח חינם בישראל, וקניות אונליין מוצרים ידידותיים לסביבה. קבלו תשובות מהירות שיעזרו לכם להתחיל למכור בביטחון עוד היום!
 
 ### צור קשר
-https://-7e71d5ef.zappy5.app/contact
+https://example.com/contact
 צרו קשר עם שופ אנד וויט והתחילו למכור דרופשיפינג מוצרים איכותיים במחיר זול עם משלוח חינם. המומחים שלנו מחכים להפוך את הרעיון שלכם לחנות אונליין מנצחת!
 
 ### Products
-https://-7e71d5ef.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - שופ אנד וויט
 
 ### Cart
-https://-7e71d5ef.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-7e71d5ef.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-7e71d5ef.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-7e71d5ef.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-7e71d5ef.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-7e71d5ef.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - שופ אנד וויט
 
 ### Category
-https://-7e71d5ef.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - שופ אנד וויט
 
 ### תודה שפניתם | שופ אנד וויט
-https://-7e71d5ef.zappy5.app/thank-you
+https://example.com/thank-you
 שופ אנד וויט - תודה שפניתם | שופ אנד וויט
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-7e71d5ef.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-7e71d5ef.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-7e71d5ef.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -101,8 +101,8 @@ E-commerce / Dropshipping
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-7e71d5ef.zappy5.app/sitemap.xml
-- Robots: https://-7e71d5ef.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-7e71d5ef.zappy5.app/llms-full.txt
-- Products (JSON): https://-7e71d5ef.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-7e71d5ef.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
